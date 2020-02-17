@@ -1,0 +1,46 @@
+Manifest-Version: 1.0
+Main-Class: com.clientui.ClientuiApplication
+Class-Path: thymeleaf-spring5-3.0.9.RELEASE.jar logback-core-1.2.3.jar j
+ avax.annotation-api-1.3.2.jar spring-boot-starter-tomcat-2.0.0.RELEASE.
+ jar commons-configuration-1.8.jar spring-jcl-5.0.4.RELEASE.jar spring-c
+ loud-starter-netflix-archaius-2.0.0.M7.jar validation-api-2.0.1.Final.j
+ ar jackson-annotations-2.9.0.jar rxnetty-0.4.9.jar netty-codec-4.1.22.F
+ inal.jar tomcat-embed-el-8.5.28.jar spring-cloud-starter-2.0.0.M8.jar l
+ og4j-to-slf4j-2.10.0.jar snakeyaml-1.19.jar httpclient-4.5.5.jar jquery
+ -2.1.1.jar commons-collections-3.2.2.jar netty-buffer-4.1.22.Final.jar 
+ popper.js-1.12.9-1.jar rxnetty-contexts-0.4.9.jar logback-classic-1.2.3
+ .jar netty-transport-native-epoll-4.1.22.Final.jar jboss-logging-3.3.2.
+ Final.jar jackson-datatype-jsr310-2.9.3.jar spring-cloud-commons-2.0.0.
+ M8.jar spring-boot-starter-2.0.0.RELEASE.jar netflix-commons-util-0.1.1
+ .jar spring-boot-starter-logging-2.0.0.RELEASE.jar spring-expression-5.
+ 0.4.RELEASE.jar netflix-statistics-0.1.1.jar spring-cloud-netflix-archa
+ ius-2.0.0.M7.jar javax.inject-1.jar slf4j-api-1.7.25.jar spring-cloud-s
+ tarter-openfeign-2.0.0.M1.jar spring-cloud-context-2.0.0.M8.jar servo-c
+ ore-0.10.1.jar jackson-core-2.9.3.jar netty-common-4.1.22.Final.jar spr
+ ing-boot-2.0.0.RELEASE.jar ribbon-httpclient-2.2.4.jar classmate-1.3.4.
+ jar spring-boot-starter-json-2.0.0.RELEASE.jar spring-boot-starter-thym
+ eleaf-2.0.0.RELEASE.jar ribbon-transport-2.2.4.jar spring-aop-5.0.4.REL
+ EASE.jar bcprov-jdk15on-1.56.jar servo-internal-0.10.1.jar aspectjweave
+ r-1.8.13.jar spring-cloud-openfeign-core-2.0.0.M1.jar jul-to-slf4j-1.7.
+ 25.jar feign-core-9.5.1.jar spring-security-rsa-1.0.5.RELEASE.jar rxnet
+ ty-servo-0.4.9.jar tomcat-embed-websocket-8.5.28.jar hibernate-validato
+ r-6.0.7.Final.jar feign-hystrix-9.5.1.jar jsr305-3.0.1.jar unbescape-1.
+ 1.5.RELEASE.jar netty-transport-4.1.22.Final.jar jersey-core-1.19.1.jar
+  thymeleaf-3.0.9.RELEASE.jar spring-core-5.0.4.RELEASE.jar spring-webmv
+ c-5.0.4.RELEASE.jar httpcore-4.4.9.jar ribbon-core-2.2.4.jar thymeleaf-
+ extras-java8time-3.0.1.RELEASE.jar feign-java8-9.5.1.jar spring-cloud-n
+ etflix-ribbon-2.0.0.M7.jar feign-slf4j-9.5.1.jar jackson-datatype-jdk8-
+ 2.9.3.jar spring-boot-autoconfigure-2.0.0.RELEASE.jar bcpkix-jdk15on-1.
+ 56.jar jersey-apache-client4-1.19.1.jar bootstrap-4.0.0-2.jar netty-res
+ olver-4.1.22.Final.jar archaius-core-0.7.5.jar spring-web-5.0.4.RELEASE
+ .jar attoparser-2.0.4.RELEASE.jar ribbon-loadbalancer-2.2.4.jar spring-
+ cloud-starter-netflix-ribbon-2.0.0.M7.jar jersey-client-1.19.1.jar jsr3
+ 11-api-1.1.1.jar HdrHistogram-2.1.9.jar jackson-module-parameter-names-
+ 2.9.3.jar jackson-databind-2.9.3.jar spring-context-5.0.4.RELEASE.jar s
+ pring-boot-starter-web-2.0.0.RELEASE.jar commons-codec-1.11.jar guava-1
+ 8.0.jar spring-beans-5.0.4.RELEASE.jar spring-boot-starter-aop-2.0.0.RE
+ LEASE.jar hystrix-core-1.5.12.jar log4j-api-2.10.0.jar tomcat-embed-cor
+ e-8.5.28.jar rxjava-1.3.6.jar netty-transport-native-unix-common-4.1.22
+ .Final.jar netty-codec-http-4.1.22.Final.jar ribbon-2.2.4.jar spring-se
+ curity-crypto-5.0.3.RELEASE.jar commons-lang-2.6.jar
+

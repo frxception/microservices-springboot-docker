@@ -1,0 +1,38 @@
+version: '3'
+services:
+  
+  db:
+    build: ./Database
+    image: microservice/db
+    container_name: mdb
+    ports: 
+        - "3306:3306"
+    networks:
+        - mynetwork
+    environment:
+        - lower_case_table_names=1
+  
+  microserviceproduits:
+    build: ./microservice-produits
+    image: microservice/produits
+    container_name: mproduits
+    environment:
+        - SPRING_DATASOURCE_URL=jdbc:mysql://mdb:3306/ecommerce?useUnicode=true&characterEncoding=utf8&useSSL=false
+    networks:
+        - mynetwork
+    ports: 
+    - "9001:9001"
+
+  microserviceclientui:
+    build: ./clientui
+    image: microservice/clientui
+    container_name: mclientui
+    networks:
+        - mynetwork
+    ports: 
+        - "8080:8080"
+  
+  
+networks:
+    mynetwork:
+        driver: bridge
